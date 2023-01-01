@@ -1,0 +1,24 @@
+{
+  "name": "jenkins-deployment",
+  "version": "1.0.0",
+  "description": "Jenkins-Pipeline and Automation with Deployment on Google Cloud Platform with SSL Certificates",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suhailroushan13/Jenkins-Deployment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suhailroushan13/Jenkins-Deployment/issues"
+  },
+  "homepage": "https://github.com/suhailroushan13/Jenkins-Deployment#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
